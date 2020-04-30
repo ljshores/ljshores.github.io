@@ -20,10 +20,10 @@
 
 title: Lauren Shores
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Data Science is a field where you're constantly learning and growing new skills. It's also
+description:
+  "Data Science is a field where you're constantly learning and growing new skills. It's also 
   a framework through which you can explore the world. I want to share those experiences here
-  (and anything else I deem relevant at the time).
+  (and anything else I deem relevant at the time)."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ljshores.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ShoresLj
@@ -72,7 +72,7 @@ collections:
     output: true
     description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      
     feature_image: "https://www.dropbox.com/s/ibwu2c0lqpiodlf/Cinque%20Terre.jpg?raw=1"
 
 include:

@@ -1,7 +1,7 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "https://www.dropbox.com/s/h01kjwzd5ymynx8/IMG_0380.jpg?raw=1"
+feature_image: "https://www.dropbox.com/s/k0bnu7izu6w8trc/chicago_b%26w_long.jpg?raw=1"
 feature_text: |
   ## <span style="color:orange">Lauren Shores</span>
 ---

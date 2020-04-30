@@ -8,7 +8,7 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://www.dropbox.com/s/ibwu2c0lqpiodlf/Cinque%20Terre.jpg?dl=0"
 feature_text: |
   ## Hello world
 ---

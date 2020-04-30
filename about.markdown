@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Lauren Shores
 # permalink: /about/
 ---
 
-## Data Scientist, lover of good food, stories, and travel.   
+### Data Scientist, lover of good food, stories, and travel.   
 
 I'm from Chicago, born and raised, and I love my city!  
 I've faced a lot of obstacles to get where I am today, and although my path into data science 
-has been a winding one, there are a couple of things that have been consistent:  
-I am curious, analytical, and strive for excellence.
+has been a winding one, there are a couple of things that have been consistent: I am curious, analytical, and strive for excellence.
 
 I now work for Walmart helping the real estate business make critical decisions by providing them with insights and data-driven tools powered by data science.
 

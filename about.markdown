@@ -4,7 +4,7 @@ title: Lauren Shores
 # permalink: /about/
 ---
 
-### Data Scientist, lover of good food, stories, and travel.   
+### <span style="color:#66CDAA">Data Scientist, lover of good food, stories, and travel.</span>     
 
 I'm from Chicago, born and raised, and I love my city!  
 I've faced a lot of obstacles to get where I am today, and although my path into data science 

@@ -15,5 +15,9 @@ I now work for Walmart helping the real estate business make critical decisions 
 I wanted to create this site so that I could continue to dabble in projects and learn techniques that interest me on the side, and bring some motivation to me actually finishing them! I hope that
 this work will be useful or interesting to others.
 
-You can find out more about me on [Linkedin](www.linkedin.com/in/lauren-shores-2972a212), follow me on [Twitter](https://twitter.com/ShoresLj),
-or check out my [Github](https://github.com/ljshores).
+You can find out more about me on [Linkedin][linkedin], follow me on [Twitter][twitter],
+or check out my [Github][github].
+
+[linkedin]: [www.linkedin.com/in/lauren-shores-2972a212]
+[twitter]: [https://twitter.com/ShoresLj]
+[github]: [https://github.com/ljshores]

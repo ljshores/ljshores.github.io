@@ -18,6 +18,6 @@ this work will be useful or interesting to others.
 You can find out more about me on [Linkedin][linkedin], follow me on [Twitter][twitter],
 or check out my [Github][github].
 
-[linkedin]: www.linkedin.com/in/lauren-shores-2972a212
+[linkedin]: https://linkedin.com/in/lauren-shores-2972a212
 [twitter]: https://twitter.com/ShoresLj
 [github]: https://github.com/ljshores

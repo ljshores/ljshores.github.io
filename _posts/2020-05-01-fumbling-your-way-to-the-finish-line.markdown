@@ -22,5 +22,5 @@ My point is, I had a goal to create a site where I can post my ideas. I had hope
  
 You’re here, reading this on my site, so I achieved my goal. I fumbled my way to get here, but I learned some things along the way. So my message is, when you feel like you want to get down on yourself because you think you should know something that you think everyone else knows, when you feel imposter syndrome creeping in, when you feel like maybe you’re out of your depth, just remember that it’s ok to jump in and fumble along to achieve your goal. What really matters is that you got to where you wanted to go and you learned some things along the way.   
 
-[g-pages]: [https://pages.github.com/]
-[jekyll-doc]: [https://jekyllrb.com/docs/]
+[g-pages]: https://pages.github.com/
+[jekyll-doc]: https://jekyllrb.com/docs/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Who Has the Best Pizza in Chicago"
-date:   2020-05-03
+date:   2020-05-04
 categories: fun_analysis tableau python
 ---
 As I mentioned before, I love Chicago. One of the reasons is that the city has AMAZING food, and I LOVE to eat! A heated topic among any Chicagoan is who serves up the best pizza. So one summer I decided that I would try to use data to figure this out. This analysis is a two parter. 

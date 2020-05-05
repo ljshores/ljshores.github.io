@@ -12,7 +12,7 @@ I can’t give you a quick tutorial on how I got this site up and running becaus
 
 Github promises that with Github Pages and Jekyll you can easily convert your repository to a website. And it is pretty easy in theory. But anyone that has ever tried to install software or code anything knows that you inevitably face some snags.   
 
-I wanted something nice, a little more than basic, but simple, because I don’t know html, am only passingly familiar with markdown through my experiences using RMarkdown, and honestly I don’t really know the science behind building a website, like the structure and how the different components fit in together.   
+I wanted something nice; a little better than basic, but simple, because I don’t know html, am only passingly familiar with markdown through my experiences using RMarkdown, and honestly I don’t really know the science behind building a website. 
 
 Anyway, I went on [Github Pages][g-pages], and created my .io repository. Then I went to the [Jekyll site][jekyll-doc] and looked at how to quickstart my site, first checking my requirements. Of course, when I checked I had the wrong version of Ruby. And thus that started my spiral of fumbles.   
 
@@ -20,7 +20,7 @@ I won’t go into details about this. There were visits to the Ruby site and lot
 
 My point is, I had a goal to create a site where I can post my ideas. I had hoped that I’d come out with a slick process to tell you all how to do that as well. But my path wasn’t linear. I encountered a lot of issues and uncertainty. I had to know how to go out and find answers to my issues and have the persistence to work through them.   
  
-You’re here, reading this on my site, so I achieved my goal. I fumbled my way to get here, but I learned some things along the way. So my message is, when you feel like you want to get down on yourself because you think you should know something that you think everyone else knows, when you feel imposter syndrome creeping in, when you feel like maybe you’re out of your depth, just remember that it’s ok to jump in and fumble along to achieve your goal. What really matters is that you got to where you wanted to go and you learned some things along the way.   
+You’re here, reading this on my site, so I achieved my goal. I fumbled my way to get here, but I learned some things along the way. So my message is, when you feel like you want to get down on yourself because you think you should know something that you think everyone else knows, when you feel imposter syndrome creeping in, when you feel like maybe you’re out of your depth, just remember that it’s ok to jump in and fumble along until you reach your goal. What really matters is that you got to where you wanted to go and you learned some things along the way.   
 
 [g-pages]: https://pages.github.com/
 [jekyll-doc]: https://jekyllrb.com/docs/

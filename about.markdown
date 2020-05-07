@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lauren Shores
-# permalink: /about/
+
 ---
 
 ### <span style="color:#66CDAA">Data Scientist, lover of good food, stories, and travel.</span>     

@@ -75,9 +75,7 @@ collections:
       
     feature_image: "https://www.dropbox.com/s/ibwu2c0lqpiodlf/Cinque%20Terre.jpg?raw=1"
 
-include:
-- about/
-- blog/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

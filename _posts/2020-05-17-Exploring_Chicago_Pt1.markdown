@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring Chicago Pt1"
+title:  "Exploring Chicago: Where Should You Live Pt1"
 date:   2020-05-17
 categories: R EDA
 ---

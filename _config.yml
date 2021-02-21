@@ -31,11 +31,11 @@ logo: "https://www.dropbox.com/s/sb5e0zz6amw2pcz/IMG_0533.jpg?raw=1"
 
 # Build settings
 #theme: minima
-remote_theme: daviddarnes/alembic
-#theme: alembic-jekyll-theme 
+#remote_theme: daviddarnes/alembic
+theme: alembic-jekyll-theme 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+ # - jekyll-remote-theme
   - jekyll-seo-tag #added for alembric
   - jekyll-sitemap
   - jekyll-mentions

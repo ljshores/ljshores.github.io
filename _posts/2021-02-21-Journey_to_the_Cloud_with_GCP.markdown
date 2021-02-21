@@ -15,10 +15,10 @@ The short of it is that I wrote some python code that would scrape large amounts
 **Google Cloud Platform**
 
 I decided to try to host my script on GCP because, hey, it’s Google… And also it would be a valuable platform to be familiar with at my job. After doing some research, I decided on which GCP products would help me reach my goal. I would:
-* Create an empty BigQuery table to store my data
-* Alter my python code so that it writes the scraped data to the BigQuery table, instead of a csv file
-* Wrap my python script in a Google Cloud Function
-* Use Cloud Schedule and Pub/Sub so that the function could be triggered to run in a serverless way, on a schedule
+   * Create an empty BigQuery table to store my data
+   * Alter my python code so that it writes the scraped data to the BigQuery table, instead of a csv file
+   * Wrap my python script in a Google Cloud Function
+   * Use Cloud Schedule and Pub/Sub so that the function could be triggered to run in a serverless way, on a schedule
 
 I’m not going to walk you through every little step, but here are some things you should definitely watch out for that gave me a headache, and a gist of things you must do to achieve the steps I outlined above. 
 

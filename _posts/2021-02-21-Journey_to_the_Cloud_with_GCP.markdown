@@ -42,7 +42,7 @@ That’s really it. You can look up the function to get details about the argume
 
 *Google Cloud Function*
 This is how Google describes their cloud functions: a serverless execution environment for building and connecting cloud services. With Cloud Functions you write simple, single-purpose functions that are attached to events emitted from your cloud infrastructure and services. Your function is triggered when an event being watched is fired. Your code executes in a fully managed environment. Sounds good, right? So after navigating to Cloud Functions in your project, you can go ahead and create one.
-* Specify what will trigger your function (I used Pub/Sub and this will prompt you to create a bucket in Google Cloud Storage that will be used for staging)
+*   Specify what will trigger your function (I used Pub/Sub and this will prompt you to create a bucket in Google Cloud Storage that will be used for staging)
 * Specify your runtime (I used Python 3.7)
 * You’ll need to edit your python script again by wrapping it in a user defined function. Your function must have the arguments myfun(event, Context) and you will enter the name of your function as your entry point in the GCP console.
 * You need to write a requirements.txt file in which you list which modules (and versions) you need for your main.py to run. Note that you may need to include modules that you don’t actually import into your python script. Below, pyarrow was necessary in my requirements file in order to load table from dataframe, but this module is not explicitly imported in my script. Example:

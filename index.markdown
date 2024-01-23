@@ -3,7 +3,7 @@ title: Welcome to my website
 layout: page
 feature_image: "https://www.dropbox.com/s/q2ma343wv9uel3n/chicago_b%26w_long_NotCropped.jpg?raw=1"  
 feature_text: |
-  ## <span style="color:white">Lauren Shores</span>
+  ## <span style="color:yellow">Lauren Shores</span>
 
 --- 
 
